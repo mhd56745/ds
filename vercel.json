@@ -1,8 +1,30 @@
 {
+  "functions": {
+    "api/convert/index.py": {
+      "maxDuration": 60,
+      "memory": 1024
+    },
+    "api/download/index.py": {
+      "maxDuration": 30,
+      "memory": 512
+    },
+    "api/status/index.py": {
+      "maxDuration": 10,
+      "memory": 128
+    }
+  },
   "rewrites": [
     {
-      "source": "/(.*)",
-      "destination": "/api/index.py"
+      "source": "/convert",
+      "destination": "/api/convert"
+    },
+    {
+      "source": "/status",
+      "destination": "/api/status"
+    },
+    {
+      "source": "/download/(.*)",
+      "destination": "/api/download/$1"
     }
   ]
 }
