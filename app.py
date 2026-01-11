@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # الرابط الأصلي لملف M3U8 الذي تريد عمل بروكسي له
-TARGET_URL = "http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6124/index.m3u8"
+TARGET_URL = "http://off16.lynxcontents.click:2086/push/334188914694/bLe8QR48ko/228300?expires=1768107356&token=YP860FRase7T2hWzc5edHyGbzsf5NFg36Hj3ORXisvi-8-lt6EJjtDQii5RaUg7Q1Rik2Zg-1R4YnBKsucpB6yjnIlBR2wAr793m0jBXNAEbamInC5SR6NgZ77NLDstGHkRvrdXEKNX4SvSUJKn0zyunRH7vYxzTGCh17YooBAySDFESyMJsN8ja-TV-0IiaUNpimx2yJVzVxzFNsGOPVC3LxMExQIgJC9DMtODUOAFOr3SOCoZsMsEs4X79DP6W"
 
 @app.route('/')
 def proxy_m3u8():
