@@ -18,7 +18,6 @@ def proxy_m3u8():
             content = response.text
             
             # استخراج الرابط الأساسي للملفات المقطعة (TS files)
-            # في هذا المثال، الرابط الأساسي هو http://e9f411eb.ottolok.net/iptv/YDFRWUQHUKMN2V/6123/
             base_url = TARGET_URL.rsplit('/', 1)[0] + '/'
             
             # تعديل المحتوى: استبدال الروابط النسبية بالروابط المطلقة
@@ -50,6 +49,6 @@ def proxy_m3u8():
     except requests.exceptions.RequestException as e:
         return f"Error connecting to target URL: {e}", 500
 
+# هذا سطر مهم لـ Vercel - لا تحذفه
 if __name__ == '__main__':
-    # هذا للتشغيل المحلي فقط
-    app.run(host='0.0.0.0', port=5000)
+    app.run()
