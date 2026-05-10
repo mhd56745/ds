@@ -5,3 +5,122 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC",MBC 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38oTa3Z.png" group-title="MBC",MBC 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=814deb15646b03b1d144627676d89842:474a09fb608c62b1eb1cc04e03b57c1a
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_2HD/DASH/MBC_2HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="MBC",MBC 3 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="MBC",MBC 4 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="MBC",MBC 5 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NCUzHw5.png" group-title="MBC",MBC Action HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d995e35f26a3f5ad83f783272d33d956:5e065664006dfd499957b7a4324c8a4f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Action_HD/DASH/MBC_Action_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULylh5V.png" group-title="MBC",MBC Max HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=814deb15646b03b1d144627676d89842:474a09fb608c62b1eb1cc04e03b57c1a
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Max_HD/DASH/MBC_Max_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aD90hl.png" group-title="MBC",MBC Masr HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BPufUAp.png" group-title="MBC",MBC Masr 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="MBC",MBC Drama HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="MBC",MBC+ Drama HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBxXavb.png" group-title="MBC",MBC+ eLife HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a458dbbe9cb445d92a27fb45cd371be7:b00f2e592b5bbade5beaa61e3aee7b32
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_eLife_HD/DASH/MBC_Plus_eLife_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BupnNgB.png" group-title="MBC",MBC+ Variety HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=867c8d7670eab5e7aa10571830ad3d8c:030cf68626950b12145bc7147d6a9bda
+https://ev-fast-mpd.starzplayarabia.com/live/eds/MBC_Plus_Variety_HD/DASH/MBC_Plus_Variety_HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="MBC",MBC Bollywood HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="MBC",MBC Iraq HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d889ec7cb5cd8acb44f702726a56ae21:37be04cfb92f19ecd6074b976c1f3c54
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4FXiyjn.png" group-title="MBC",MBC Persia HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=535b41e50f71d5dcdd7b61685500980f:864e981865940ef26cde333a1a8be344
+https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="MBC",Wanasah HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eca652b82b166e910e75150e0648ae32:587ed914c18ec18bc344769827ee7d96
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
