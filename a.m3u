@@ -142,3 +142,59 @@ https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eca652b82b166e910e75150e0648ae32:587ed914c18ec18bc344769827ee7d96
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/1" tvg-id="6193b5c873ca1eabc85752126216a2b0" tvg-chno="1",TF1
+http://86.202.245.66:9981/stream/channelid/1219859297?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/2" tvg-id="0afcb0cf7a5bced27f345bf8a625f641" tvg-chno="2",France 2
+http://86.202.245.66:9981/stream/channelid/1336998922?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/3" tvg-id="e2bc29b580b22e1a434554fccb3db9f3" tvg-chno="3",F3 RhÃ´ne-Alpes
+http://86.202.245.66:9981/stream/channelid/891927778?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/4" tvg-id="a790583326f5d93f8d2f179695ec9ac7" tvg-chno="4",France 4
+http://86.202.245.66:9981/stream/channelid/861442215?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/5" tvg-id="bfa08d2c98ed6b2fc90482a23696ee54" tvg-chno="5",France 5
+http://86.202.245.66:9981/stream/channelid/747479231?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/6" tvg-id="c7c8b8f9a86af4742efb6d4689402d03" tvg-chno="6",M6
+http://86.202.245.66:9981/stream/channelid/2042153159?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/7" tvg-id="c9f1f9bf10e3bc8f9a2d1054c07bed75" tvg-chno="7",Arte
+http://86.202.245.66:9981/stream/channelid/1073344969?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/8" tvg-id="d5e6bc91dbb3c13200942e0852035434" tvg-chno="8",LCP
+http://86.202.245.66:9981/stream/channelid/297592533?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/9" tvg-id="6044d0934663af45e75e28089ea6e41f" tvg-chno="9",W9
+http://86.202.245.66:9981/stream/channelid/332416096?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/10" tvg-id="9c05449f0be682e32f7130e0ba08f84a" tvg-chno="10",TMC
+http://86.202.245.66:9981/stream/channelid/524551580?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/11" tvg-id="9339824913f099e535630f602dcfb6d3" tvg-chno="11",TFX
+http://86.202.245.66:9981/stream/channelid/1233271187?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/12" tvg-id="1b23d3f704ae0028214dad90375dfc1a" tvg-chno="12",Gulli
+http://86.202.245.66:9981/stream/channelid/2010325787?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/13" tvg-id="c988e77d0f2090061e05aa696e4e41d9" tvg-chno="13",BFM TV
+http://86.202.245.66:9981/stream/channelid/2112325833?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/14" tvg-id="b34ce5919841c6bb4046e9b41691fc7c" tvg-chno="14",CNEWS
+http://86.202.245.66:9981/stream/channelid/300240051?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/15" tvg-id="edae66cdfe480677cf8ec71155d03ca4" tvg-chno="15",LCI
+http://86.202.245.66:9981/stream/channelid/1298575085?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/16" tvg-id="c70e8a8e47535c2a0c3aaa98b2acfe9b" tvg-chno="16",franceinfo:
+http://86.202.245.66:9981/stream/channelid/243928775?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/17" tvg-id="53d0ba6700c7048ac54b239d61584a8a" tvg-chno="17",CSTAR
+http://86.202.245.66:9981/stream/channelid/1740296275?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/18" tvg-id="599f6a7736e860b799099264aabf904a" tvg-chno="18",T18
+http://86.202.245.66:9981/stream/channelid/2003476313?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/19" tvg-id="da915ccaeeeb1727c33c56faa04f6267" tvg-chno="19",NOVO19
+http://86.202.245.66:9981/stream/channelid/1247580634?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/20" tvg-id="3969eac8d7009b99632546a37edd75ad" tvg-chno="20",TF1 SÃ©ries Films
+http://86.202.245.66:9981/stream/channelid/1223321913?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/21" tvg-id="411a7111f1019b109880d8bc0c67839e" tvg-chno="21",L'Equipe
+http://86.202.245.66:9981/stream/channelid/292624961?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/22" tvg-id="c870063bddc364c7f7bd849169198c71" tvg-chno="22",6ter
+http://86.202.245.66:9981/stream/channelid/990277832?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/23" tvg-id="bc648b11f5af80faac1a84d2277e3b20" tvg-chno="23",RMC STORY
+http://86.202.245.66:9981/stream/channelid/294347964?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/24" tvg-id="70effa8e2d5368aa219ec6a571dd438d" tvg-chno="24",RMC DÃ©couverte
+http://86.202.245.66:9981/stream/channelid/251326320?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/25" tvg-id="c2e18f93e18046432a6018a1b968828e" tvg-chno="25",RMC LIFE
+http://86.202.245.66:9981/stream/channelid/328196546?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/26" tvg-id="838b39b9f2f5455669b51d8d6935ba43" tvg-chno="26",PARIS PREMIERE
+http://86.202.245.66:9981/stream/channelid/960072579?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/27" tvg-id="035475f5f7cb4573e6f96f6b55004285" tvg-chno="30",BFM LYON
+http://86.202.245.66:9981/stream/channelid/1970623491?profile=pass
+#EXTINF:-1 tvg-logo="http://86.202.245.66:9981/imagecache/28" tvg-id="793446c45b5f33eda89f2e6a1d59063d" tvg-chno="77",Arte.Tv
+http://86.202.245.66:9981/stream/channelid/1145451641?profile=pass
