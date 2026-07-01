@@ -1,7 +1,211 @@
 #EXTM3U
 
 # ============================================================
-# 📰 INFORMATION (Actualités)
+# 📺 GÉNÉRALISTES
+# ============================================================
+#EXTINF:-1 group-title="Généralistes" tvg-id="439" tvg-logo="http://api.iptv.so/logo/200_115_0/439.png",TF1 [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/439
+
+#EXTINF:-1 group-title="Généralistes" tvg-id="409" tvg-logo="http://api.iptv.so/logo/200_115_0/409.png",France 2 [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/409
+
+#EXTINF:-1 group-title="Généralistes" tvg-id="410" tvg-logo="http://api.iptv.so/logo/200_115_0/410.png",France 3 [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/410
+
+#EXTINF:-1 group-title="Généralistes" tvg-id="440" tvg-logo="http://api.iptv.so/logo/200_115_0/440.png",France 4 [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/440
+
+#EXTINF:-1 group-title="Généralistes" tvg-id="411" tvg-logo="http://api.iptv.so/logo/200_115_0/411.png",France 5 [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/411
+
+#EXTINF:-1 group-title="Généralistes" tvg-id="414" tvg-logo="http://api.iptv.so/logo/200_115_0/414.png",M6 [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/414
+
+#EXTINF:-1 group-title="Généralistes" tvg-id="413" tvg-logo="http://api.iptv.so/logo/200_115_0/413.png",W9 [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/413
+
+#EXTINF:-1 group-title="Généralistes" tvg-id="417" tvg-logo="http://api.iptv.so/logo/200_115_0/417.png",Arte [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/417
+
+#EXTINF:-1 group-title="Généralistes" tvg-id="425" tvg-logo="http://api.iptv.so/logo/200_115_0/425.png",TMC [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/425
+
+#EXTINF:-1 group-title="Généralistes" tvg-id="426" tvg-logo="http://api.iptv.so/logo/200_115_0/426.png",TFX [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/426
+
+#EXTINF:-1 group-title="Généralistes" tvg-id="1331" tvg-logo="http://api.iptv.so/logo/200_115_0/1331.png",6TER [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1331
+
+#EXTINF:-1 group-title="Généralistes" tvg-id="1332" tvg-logo="http://api.iptv.so/logo/200_115_0/1332.png",Cherie 25 [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1332
+
+# ============================================================
+# 🎬 CINÉMA & SÉRIES
+# ============================================================
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="2438" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Canal%2B%20Cinema.png",Canal+ Cinema HD FR
+https://tinyurl.com/TvZaTak8/UKbz6cpVb1/video.m3u8?token=XSOdznpeFPEURAYS
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="1970" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Canal%2B%20Series.png",Canal+ Series FR
+https://tinyurl.com/TvZaTak8/SCK85OlWnX/video.m3u8?token=XSOdznpeFPEURAYS
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="2461" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Cine%2B%20Premier.png",Cine+ Premier FR
+https://tinyurl.com/TvZaTak8/BUEl1JTEr6/video.m3u8?token=XSOdznpeFPEURAYS
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="2687" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Serie%20Club.png",Serie Club FR
+https://tinyurl.com/TvZaTak8/LtqwdJR851/video.m3u8?token=XSOdznpeFPEURAYS
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="422" tvg-logo="http://api.iptv.so/logo/200_115_0/422.png",Polar [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/422
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="1960" tvg-logo="http://api.iptv.so/logo/200_115_0/1960.png",Paramount Network HD [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1960
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="1957" tvg-logo="http://api.iptv.so/logo/200_115_0/1957.png",CINE+ Emotion HD [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1957
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="1959" tvg-logo="http://api.iptv.so/logo/200_115_0/1959.png",TCM Cinema HD [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1959
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="1324" tvg-logo="http://api.iptv.so/logo/200_115_0/1324.png",Cine+ Premier [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1324
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="434" tvg-logo="http://api.iptv.so/logo/200_115_0/434.png",AB 1 [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/434
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Canal%2B.png",Canal+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Canal%2B%20Cinema.png",Canal+ Cinema HD
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Comedie%2B.png",Comedie+ HD
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Paris%20Premiere.png",Paris Premiere HD
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/RTL9.png",RTL 9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Teva.png",Teva HD
+http://151.80.18.177:86/Teva_HD/index.m3u8
+
+#EXTINF:-1 group-title="Cinéma & Séries" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/TF1%20Series%20Films.png",TF1 Séries Films
+http://176.65.146.138:8047/play/a079/index.m3u8
+
+# ============================================================
+# 🏆 SPORT
+# ============================================================
+#EXTINF:-1 group-title="Sport" tvg-id="1322" tvg-logo="http://api.iptv.so/logo/200_115_0/1322.png",LEquipe 21 [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1322
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Canal%2B%20Sport.png",Canal+ Sport HD
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Eurosport.png",Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Eurosport%202.png",Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Golf%2B.png",GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/L%27Equipe.png",L'Equipe
+http://176.65.146.138:8047/play/a07a/index.m3u8
+
+# ============================================================
+# 📺 DÉCOUVERTE / DOCUMENTAIRE
+# ============================================================
+#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="419" tvg-logo="http://api.iptv.so/logo/200_115_0/419.png",Animaux [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/419
+
+#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="420" tvg-logo="http://api.iptv.so/logo/200_115_0/420.png",Chasse & Peche [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/420
+
+#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="428" tvg-logo="http://api.iptv.so/logo/200_115_0/428.png",Toute Histoire [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/428
+
+#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="1964" tvg-logo="http://api.iptv.so/logo/200_115_0/1964.png",PLANETE+ HD [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1964
+
+#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="1961" tvg-logo="http://api.iptv.so/logo/200_115_0/1961.png",PLANETE+ CRIME HD [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1961
+
+#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="435" tvg-logo="http://api.iptv.so/logo/200_115_0/435.png",Trek [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/435
+
+#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="1323" tvg-logo="http://api.iptv.so/logo/200_115_0/1323.png",RMC Docouverte [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1323
+
+#EXTINF:-1 group-title="Découverte / Documentaire" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/National%20Geographic.png",National Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+
+#EXTINF:-1 group-title="Découverte / Documentaire" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Histoire.png",Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+
+#EXTINF:-1 group-title="Découverte / Documentaire" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Discovery.png",Discovery HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+
+#EXTINF:-1 group-title="Découverte / Documentaire" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/RMC%20Decouverte.png",RMC Découverte HD
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+
+#EXTINF:-1 group-title="Découverte / Documentaire" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/RMC%20Story.png",RMC STORY
+http://176.65.146.138:8047/play/a07d/index.m3u8
+
+# ============================================================
+# 👶 JEUNESSE / ENFANTS
+# ============================================================
+#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="429" tvg-logo="http://api.iptv.so/logo/200_115_0/429.png",Gulli [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/429
+
+#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="1327" tvg-logo="http://api.iptv.so/logo/200_115_0/1327.png",Nickelodeon [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1327
+
+#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="1963" tvg-logo="http://api.iptv.so/logo/200_115_0/1963.png",Piwi+ HD [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1963
+
+#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="1958" tvg-logo="http://api.iptv.so/logo/200_115_0/1958.png",Canal J HD [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1958
+
+#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="1344" tvg-logo="http://api.iptv.so/logo/200_115_0/1344.png",Boomerang HD [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1344
+
+#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="1345" tvg-logo="http://api.iptv.so/logo/200_115_0/1345.png",Cartoonito HD [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1345
+
+#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="1346" tvg-logo="http://api.iptv.so/logo/200_115_0/1346.png",Teletoon+ HD [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1346
+
+#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Disney%20Channel.png",Disney HD
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+
+#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Tiji.png",Tiji HD
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+
+# ============================================================
+# 🎵 MUSIQUE & DIVERTISSEMENT
+# ============================================================
+#EXTINF:-1 group-title="Musique & Divertissement" tvg-id="1965" tvg-logo="http://api.iptv.so/logo/200_115_0/1965.png",Game One HD [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1965
+
+#EXTINF:-1 group-title="Musique & Divertissement" tvg-id="424" tvg-logo="http://api.iptv.so/logo/200_115_0/424.png",NRJ12 [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/424
+
+#EXTINF:-1 group-title="Musique & Divertissement" tvg-id="1962" tvg-logo="http://api.iptv.so/logo/200_115_0/1962.png",Comedie+ HD [FR]
+http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1962
+
+#EXTINF:-1 group-title="Musique & Divertissement" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Trace%20Urban.png",TRACE URBAN
+http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+
+#EXTINF:-1 group-title="Musique & Divertissement" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/NRJ%2012.png",NRJ_12 HD
+http://151.80.18.177:86/NRJ_12_HD/index.m3u8
+
+#EXTINF:-1 group-title="Musique & Divertissement" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/CStar.png",D17 CSTAR HD
+http://151.80.18.177:86/D17_HD/index.m3u8
+
+# ============================================================
+# 📰 INFORMATION
 # ============================================================
 #EXTINF:-1 group-title="Information" tvg-id="1321" tvg-logo="http://api.iptv.so/logo/200_115_0/1321.png",CNews [FR]
 http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1321
@@ -15,7 +219,10 @@ http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 group-title="Information" tvg-id="427" tvg-logo="http://api.iptv.so/logo/200_115_0/427.png",LCP [FR]
 http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/427
 
-# ========== BFM National / Thématique ==========
+#EXTINF:-1 group-title="Information" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/France%20Info.png",franceinfo:
+http://176.65.146.138:8047/play/a07g/index.m3u8
+
+# ========== BFM National ==========
 #EXTINF:-1 group-title="Information" tvg-id="BFMTV.fr@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/BFM%20TV.png",BFM TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
@@ -78,192 +285,3 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&sta
 #EXTINF:-1 group-title="Régionales" tvg-id="BFMVar.fr@SD" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/BFM%20Toulon%20Var.png",BFM Toulon Var (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
-
-# ============================================================
-# 📺 GÉNÉRALISTES
-# ============================================================
-#EXTINF:-1 group-title="Généralistes" tvg-id="439" tvg-logo="http://api.iptv.so/logo/200_115_0/439.png",TF1 [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/439
-
-#EXTINF:-1 group-title="Généralistes" tvg-id="409" tvg-logo="http://api.iptv.so/logo/200_115_0/409.png",France 2 [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/409
-
-#EXTINF:-1 group-title="Généralistes" tvg-id="410" tvg-logo="http://api.iptv.so/logo/200_115_0/410.png",France 3 [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/410
-
-#EXTINF:-1 group-title="Généralistes" tvg-id="440" tvg-logo="http://api.iptv.so/logo/200_115_0/440.png",France 4 [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/440
-
-#EXTINF:-1 group-title="Généralistes" tvg-id="411" tvg-logo="http://api.iptv.so/logo/200_115_0/411.png",France 5 [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/411
-
-#EXTINF:-1 group-title="Généralistes" tvg-id="414" tvg-logo="http://api.iptv.so/logo/200_115_0/414.png",M6 [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/414
-
-#EXTINF:-1 group-title="Généralistes" tvg-id="413" tvg-logo="http://api.iptv.so/logo/200_115_0/413.png",W9 [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/413
-
-#EXTINF:-1 group-title="Généralistes" tvg-id="417" tvg-logo="http://api.iptv.so/logo/200_115_0/417.png",Arte [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/417
-
-#EXTINF:-1 group-title="Généralistes" tvg-id="425" tvg-logo="http://api.iptv.so/logo/200_115_0/425.png",TMC [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/425
-
-#EXTINF:-1 group-title="Généralistes" tvg-id="426" tvg-logo="http://api.iptv.so/logo/200_115_0/426.png",TFX [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/426
-
-#EXTINF:-1 group-title="Généralistes" tvg-id="1331" tvg-logo="http://api.iptv.so/logo/200_115_0/1331.png",6TER [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1331
-
-#EXTINF:-1 group-title="Généralistes" tvg-id="1332" tvg-logo="http://api.iptv.so/logo/200_115_0/1332.png",Cherie 25 [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1332
-
-# ============================================================
-# 🎬 CINÉMA & SÉRIES
-# ============================================================
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="2438" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Canal%2B%20Cinema.png",Canal+ Cinema HD FR
-https://tinyurl.com/TvZaTak8/UKbz6cpVb1/video.m3u8?token=XSOdznpeFPEURAYS
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="1970" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Canal%2B%20Series.png",Canal+ Series FR
-https://tinyurl.com/TvZaTak8/SCK85OlWnX/video.m3u8?token=XSOdznpeFPEURAYS
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="1324" tvg-logo="http://api.iptv.so/logo/200_115_0/1324.png",Cine+ Premier [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1324
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="2461" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Cine%2B%20Premier.png",Cine+ Premier FR
-https://tinyurl.com/TvZaTak8/BUEl1JTEr6/video.m3u8?token=XSOdznpeFPEURAYS
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="2687" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Serie%20Club.png",Serie Club FR
-https://tinyurl.com/TvZaTak8/LtqwdJR851/video.m3u8?token=XSOdznpeFPEURAYS
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="1957" tvg-logo="http://api.iptv.so/logo/200_115_0/1957.png",CINE+ Emotion HD [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1957
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="1962" tvg-logo="http://api.iptv.so/logo/200_115_0/1962.png",Comedie+ HD [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1962
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="422" tvg-logo="http://api.iptv.so/logo/200_115_0/422.png",Polar [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/422
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="1960" tvg-logo="http://api.iptv.so/logo/200_115_0/1960.png",Paramount Network HD [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1960
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="1959" tvg-logo="http://api.iptv.so/logo/200_115_0/1959.png",TCM Cinema HD [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1959
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Canal%2B.png",Canal+ HD
-http://151.80.18.177:86/Canal+_HD/index.m3u8
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Paris%20Premiere.png",Paris Premiere HD
-http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="434" tvg-logo="http://api.iptv.so/logo/200_115_0/434.png",AB 1 [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/434
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/RTL9.png",RTL 9 HD
-http://151.80.18.177:86/RTL9/index.m3u8
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Teva.png",Teva HD
-http://151.80.18.177:86/Teva_HD/index.m3u8
-
-#EXTINF:-1 group-title="Cinéma & Séries" tvg-id="1333" tvg-logo="http://api.iptv.so/logo/200_115_0/1333.png",TF1 Series Film [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1333
-
-# ============================================================
-# 📺 DÉCOUVERTE / DOCUMENTAIRE
-# ============================================================
-#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="419" tvg-logo="http://api.iptv.so/logo/200_115_0/419.png",Animaux [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/419
-
-#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="420" tvg-logo="http://api.iptv.so/logo/200_115_0/420.png",Chasse & Peche [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/420
-
-#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="428" tvg-logo="http://api.iptv.so/logo/200_115_0/428.png",Toute Histoire [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/428
-
-#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="1964" tvg-logo="http://api.iptv.so/logo/200_115_0/1964.png",PLANETE+ HD [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1964
-
-#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="1961" tvg-logo="http://api.iptv.so/logo/200_115_0/1961.png",PLANETE+ CRIME HD [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1961
-
-#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="435" tvg-logo="http://api.iptv.so/logo/200_115_0/435.png",Trek [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/435
-
-#EXTINF:-1 group-title="Découverte / Documentaire" tvg-id="1323" tvg-logo="http://api.iptv.so/logo/200_115_0/1323.png",RMC Docouverte [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1323
-
-#EXTINF:-1 group-title="Découverte / Documentaire" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/National%20Geographic.png",National Geo HD
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
-
-#EXTINF:-1 group-title="Découverte / Documentaire" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Histoire.png",Histoire HD
-http://151.80.18.177:86/Histoire/index.m3u8
-
-#EXTINF:-1 group-title="Découverte / Documentaire" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Discovery.png",Discovery HD
-http://151.80.18.177:86/Discovery_HD/index.m3u8
-
-#EXTINF:-1 group-title="Découverte / Documentaire" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/RMC%20Story.png",RMC STORY
-http://176.65.146.138:8047/play/a07d/index.m3u8
-
-# ============================================================
-# 🏆 SPORT
-# ============================================================
-#EXTINF:-1 group-title="Sport" tvg-id="1322" tvg-logo="http://api.iptv.so/logo/200_115_0/1322.png",LEquipe 21 [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1322
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Canal%2B%20Sport.png",Canal+ Sport HD
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Eurosport.png",Euro Sport HD
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Eurosport%202.png",Euro Sport 2 HD
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Golf%2B.png",GOLF+
-http://151.80.18.177:86/GOLF+_HD/index.m3u8
-
-# ============================================================
-# 👶 JEUNESSE / ENFANTS
-# ============================================================
-#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="429" tvg-logo="http://api.iptv.so/logo/200_115_0/429.png",Gulli [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/429
-
-#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="1327" tvg-logo="http://api.iptv.so/logo/200_115_0/1327.png",Nickelodeon [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1327
-
-#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="1963" tvg-logo="http://api.iptv.so/logo/200_115_0/1963.png",Piwi+ HD [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1963
-
-#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="1958" tvg-logo="http://api.iptv.so/logo/200_115_0/1958.png",Canal J HD [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1958
-
-#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="1344" tvg-logo="http://api.iptv.so/logo/200_115_0/1344.png",Boomerang HD [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1344
-
-#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="1345" tvg-logo="http://api.iptv.so/logo/200_115_0/1345.png",Cartoonito HD [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1345
-
-#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-id="1346" tvg-logo="http://api.iptv.so/logo/200_115_0/1346.png",Teletoon+ HD [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1346
-
-#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Disney%20Channel.png",Disney HD
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-
-#EXTINF:-1 group-title="Jeunesse / Enfants" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Tiji.png",Tiji HD
-http://151.80.18.177:86/Tiji_HD/index.m3u8
-
-# ============================================================
-# 🎵 MUSIQUE & DIVERTISSEMENT
-# ============================================================
-#EXTINF:-1 group-title="Musique & Divertissement" tvg-id="1965" tvg-logo="http://api.iptv.so/logo/200_115_0/1965.png",Game One HD [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/1965
-
-#EXTINF:-1 group-title="Musique & Divertissement" tvg-id="424" tvg-logo="http://api.iptv.so/logo/200_115_0/424.png",NRJ12 [FR]
-http://kkja.shott.top/p/21fe0b727a41639f47bce8663f7c3a79/424
-
-#EXTINF:-1 group-title="Musique & Divertissement" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/Trace%20Urban.png",TRACE URBAN
-http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
-
-#EXTINF:-1 group-title="Musique & Divertissement" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/fr/CStar.png",D17 CSTAR HD
-http://151.80.18.177:86/D17_HD/index.m3u8
