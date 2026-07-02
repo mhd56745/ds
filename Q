@@ -1,4 +1,4 @@
-#EXTM3U x-generator="https://m3u4u.com/"
+#EXTM3U 
 #EXTINF:-1 group-title="ARABIC" tvg-logo="" tvg-id="No details available",MTV LEBANON
 https://winter-breeze-41c8.edgenextcdnnet.workers.dev/1107.m3u8
 #EXTINF:-1 group-title="ARABIC" tvg-logo="" tvg-id="No details available",LDC
